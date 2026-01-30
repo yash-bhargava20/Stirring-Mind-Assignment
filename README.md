@@ -99,7 +99,7 @@ Security notes (current):
 
 ## UI Preview
 
-![Landing Page](./screenshots/Landing-page2.png)
+![Landing Page](./screenshots/Landing-Page2.png)
 ![Landing Page](./screenshots/Landing-page1.png)
 
 ## Development — How to run locally
